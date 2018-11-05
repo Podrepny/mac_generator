@@ -9,3 +9,11 @@ Example:
 
 macgen.sh 10 52:54:00:
 
+or
+
+macgen.sh 10
+
+or
+
+macgen.sh
+
